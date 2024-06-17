@@ -1,0 +1,47 @@
+{
+  "lang": "fa",
+  "name": "first-pwa",
+  "short_name": "pwa",
+  "description": "for Testing chalange pwa",
+  "start_url": "./",
+  "background_color": "#2f3d58",
+  "theme_color": "#2f3d58",
+  "orientation": "any",
+  "display": "standalone",
+  "scope": ".",
+  "icons": [
+    {
+      "src": "/static/icons/homescreen48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/static/icons/homescreen72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/static/icons/homescreen96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/static/icons/homescreen144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/static/icons/homescreen168.png",
+      "sizes": "168x168"
+    },
+    {
+      "src": "/static/icons/homescreen192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/static/icons/homescreen256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/static/icons/homescreen512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
+
